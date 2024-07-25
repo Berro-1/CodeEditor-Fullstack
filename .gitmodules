@@ -1,0 +1,6 @@
+[submodule "CodeEditor-Front"]
+	path = CodeEditor-Front
+	url = https://github.com/Berro-1/CodeEditor-Front
+[submodule "CodeEditor-Back"]
+	path = CodeEditor-Back
+	url = https://github.com/Berro-1/CodeEditor-Back
